@@ -1,0 +1,15 @@
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\obj\Debug\net6.0\task_09.csproj.AssemblyReference.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\obj\Debug\net6.0\task_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\obj\Debug\net6.0\task_09.AssemblyInfoInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\obj\Debug\net6.0\task_09.AssemblyInfo.cs
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\obj\Debug\net6.0\task_09.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\bin\Debug\net6.0\task_09.exe
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\bin\Debug\net6.0\task_09.deps.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\bin\Debug\net6.0\task_09.runtimeconfig.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\bin\Debug\net6.0\task_09.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\bin\Debug\net6.0\task_09.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\obj\Debug\net6.0\task_09.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\obj\Debug\net6.0\refint\task_09.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\obj\Debug\net6.0\task_09.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\obj\Debug\net6.0\task_09.genruntimeconfig.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_2\task_09\obj\Debug\net6.0\ref\task_09.dll
